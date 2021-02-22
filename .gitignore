@@ -75,3 +75,6 @@ DerivedDataCache/*
 
 #Idea
 .idea/
+
+#Deps
+/Content/Weapon_Pack/
