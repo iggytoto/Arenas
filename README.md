@@ -12,6 +12,7 @@ Autochess game
 - https://www.unrealengine.com/marketplace/en-US/product/e4494c76c3b348aba7ef9b263a6dd496
 - https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-plain-lands
 - https://www.unrealengine.com/marketplace/en-US/product/infinity-blade-hideout
+- https://www.unrealengine.com/marketplace/en-US/product/8aa54965c2f64b04810ec8d75cdf9c24?sessionInvalidated=true
 
 # Not really free dependencies, but ive bought them, honestly
 - https://www.unrealengine.com/marketplace/en-US/product/hand-painted-armor-weapon-icon-bundle
